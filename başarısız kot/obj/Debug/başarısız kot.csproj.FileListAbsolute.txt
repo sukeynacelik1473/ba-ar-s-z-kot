@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\bin\Debug\başarısız kot.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\bin\Debug\başarısız kot.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\bin\Debug\başarısız kot.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\obj\Debug\başarısız kot.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\obj\Debug\başarısız kot.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\obj\Debug\başarısız_kot.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\obj\Debug\başarısız_kot.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\obj\Debug\başarısız kot.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\obj\Debug\başarısız kot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\obj\Debug\başarısız kot.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\başarısız kot\başarısız kot\obj\Debug\başarısız kot.pdb
